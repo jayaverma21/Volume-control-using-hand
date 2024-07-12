@@ -16,11 +16,12 @@ This project demonstrates how to control the system volume using hand gestures w
 + pyautogui: For controlling the system volume.
 
 # Installation
-pip install opencv-python numpy cvzone pyautogui
+```pip install opencv-python numpy cvzone pyautogui```
+
 
 # Usage
 Run the following command to start the application:
-+ python volume_control_hand_gesture.py
+```python volume_control_hand_gesture.py```
 
 # Code Explanation
 The main script volume_control_hand_gesture.py does the following:
